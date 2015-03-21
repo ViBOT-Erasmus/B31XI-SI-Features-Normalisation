@@ -28,11 +28,22 @@ Synthetic data will be generated. Simple classification using Leave-One-Patient-
 
 ## To perform the practise
 
+### Assignment procedure
+
 In order to perform the practise, you will have to fork the current project. To do so,
 
-- [Fork](https://help.github.com/articles/fork-a-repo/) the current project by click on the Fork icon ![Do not fine the icon](./readme-images/fork-icon.png) on the top right of this webpage,
+- [Fork](https://help.github.com/articles/fork-a-repo/) the current project by click on the Fork icon ![Do not fine the icon](./readme-images/fork-icon.png),
 - Select your GitHub profile if necessary,
-- Clone the repository by copying the URL present on the right side of the page as ![Do not fine the icon](./readme-images/git-clone.png),
-- Solve the practise,
+- Clone the repository ![Do not fine the icon](./readme-images/git-clone.png),
+- Solve the practise by executing the Ipython notebook,
 - Commit & push your changes in your own repository,
 - Make a [pull request](https://help.github.com/articles/using-pull-requests/).
+
+### Execute the Ipython notebook
+
+Enter the following command in a terminal `ipython notebook`.
+
+This command should run the server locally via your default web browser and you will be able to play with the notebook.
+
+Enjoy!!!
+
