@@ -3,7 +3,7 @@
 **Table-of-contents**
 
 * [Dependencies](#dependencies)
-* [Feature normalization](#features-normalization)
+* [Features normalization](#features-normalization)
 * [To perform the practise](#to-perform-the-practise)
 
 More description is given in the subsections.
