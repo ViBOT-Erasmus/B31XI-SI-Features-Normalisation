@@ -1,4 +1,4 @@
-# Scene Segmentation and Interpretation - Pattern recognition
+# SI - Pattern Recognition
 
 **Table-of-contents**
 
