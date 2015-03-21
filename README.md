@@ -1,4 +1,4 @@
-# Feature Normalization
+# Scene Segmentation and Interpretation - Pattern recognition
 
 **Table-of-contents**
 
@@ -44,6 +44,8 @@ In order to perform the practise, you will have to fork the current project. To 
 Enter the following command in a terminal `ipython notebook`.
 
 This command should run the server locally via your default web browser and you will be able to play with the notebook.
+
+If you are just curious to see what the ipython notebook look like, you can view it [there]().
 
 Enjoy!!!
 
