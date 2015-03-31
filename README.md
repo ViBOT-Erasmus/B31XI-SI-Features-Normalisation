@@ -24,6 +24,9 @@ We strongly recommend to use a Linux environment to perform this practise.
 
 ## Features normalization
 
+The following module of the framework will be studied:
+![Alt text](./readme-images/pr-framework-fn.png)
+
 Synthetic data will be generated. Simple classification using Leave-One-Patient-Out cross-validation will be performed in order to show the importance of features normalization previous to classification.
 
 ## To perform the practise
