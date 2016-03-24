@@ -47,7 +47,7 @@ Enter the following command in a terminal `ipython notebook`.
 
 This command should run the server locally via your default web browser and you will be able to play with the notebook.
 
-If you are just curious to see what the ipython notebook look like, you can view it [there](http://nbviewer.ipython.org/github/ViBOT-Erasmus/B31XI-SI-Features-Normalisation/blob/master/features-normalisation.ipynb).
+If you are just curious to see what the ipython notebook look like, you can view it [there](http://nbviewer.ipython.org/github/ViBOT-Erasmus/B31XI-SI-Features-Normalisation/blob/solution/features-normalisation.ipynb).
 
 Enjoy!!!
 
